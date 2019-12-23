@@ -11,7 +11,6 @@ namespace home_work
         static void Main(string[] args)
         {
             int num = 0;
-            int isPrim = 0;
             int i = 2;
             Console.WriteLine("Enter number to check if is a Prime Number");
 
