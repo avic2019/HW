@@ -16,7 +16,6 @@ namespace home_work
 
             for (int i = 1; i <= num; i++)
             {
-               // Console.Write(i);
                 for (int j = 1; j<=num ; j++)
                 {
                     if (j<=i)
